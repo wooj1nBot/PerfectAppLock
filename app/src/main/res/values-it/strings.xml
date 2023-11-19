@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="start">AVVIA</string>
+
+    <string name="change_PIN">MODIFICA IL CODICE PIN</string>
+    <string name="pattern_title">Traccia una sequenza di sblocco da utilizzare come sblocco alternativo</string>
+    <string name="pattern_text">Collega almeno 4 punti</string>
+    <string name="reset">RIPRISTINA</string>
+    <string name="check_pattern">Conferma la sequenza</string>
+    <string name="retry">riprova</string>
+    <string name="wrong_pattern">Sequenza errata</string>
+    <string name="change_pattern">MODIFICA LA SEQUENZA</string>
+    <string name="pin_title">Imposta il codice PIN da utilizzare come sblocco alternativo</string>
+    <string name="pin_text">Inserisci 4 numeri</string>
+    <string name="check_pin">Conferma il PIN</string>
+    <string name="wrong_pin">I codici PIN non corrispondono</string>
+    <string name="week">Blocca più app e aumenta la sicurezza</string>
+    <string name="lock">blocco</string>
+    <string name="finger_ver">Autenticazione con impronta digitale registrata</string>
+    <string name="cancel">cancellazione</string>
+    <string name="locked">bloccato</string>
+
+    <string name="spy_camera">Telecamera spia</string>
+    <string name="icon">icona mimetica</string>
+    <string name="ad">rimuovere gli annunci</string>
+    <string name="review">valutare</string>
+    <string name="priv">Termini di utilizzo</string>
+    <string name="spy_camera_text">Scatta una foto quando un determinato numero di volte si verifica un errore di sequenza o password</string>
+    <string name="spy_1">sparare alla spia</string>
+
+    <string name="spy_2">Numero di errori di password</string>
+    <string name="icon_text">Disguise Perfect Applock come un\'altra app con l\'icona mimetica</string>
+    <string name="basic">di base</string>
+    <string name="used">in uso</string>
+    <string name="change">sostituire</string>
+    <string name="change_icon">Vuoi sostituire Perfect Applcok con quell\'icona?</string>
+    <string name="chan">sostituire</string>
+    <string name="ad_off_text">Puoi usare Perfect Applock più comodamente senza pubblicità!</string>
+
+    <string name="purchase">acquistare</string>
+    <string name="setting">collocamento</string>
+    <string name="password">parola d\'ordine</string>
+    <string name="reset_password">reimpostazione della password</string>
+    <string name="finger_lock">blocco delle impronte digitali</string>
+    <string name="hidden_pattern">Motivo trasparente quando si utilizza il blocco del motivo</string>
+    <string name="general">comune</string>
+    <string name="alert">Principali impostazioni di notifica</string>
+    <string name="re_lock">impostare nuovamente il blocco</string>
+    <string name="lock_display">Riblocca lo schermo dopo averlo spento</string>
+    <string name="lock_app">La chiusura dell\'app la blocca nuovamente</string>
+    <string name="diff">Sblocca in altri modi</string>
+    <string name="lock_all">Blocca tutto</string>
+    <string name="finger_error">L\'utente ha annullato l\'operazione di riconoscimento delle impronte digitali.</string>
+    <string name="finger">Autenticazione dell\'impronta digitale</string>
+    <string name="finger_text">Verifica la tua impronta digitale.</string>
+    <string name="finger_no">Non è presente alcun sensore di impronte digitali su questo dispositivo.</string>
+    <string name="finger_no_enroll">Non ci sono impronte digitali registrate su questo dispositivo.</string>
+    <string name="create_short">Ricrea scorciatoie</string>
+
+    <string name="year">1 anno</string>
+    <string name="month">1 Mese</string>
+    <string name="sub">Iscrizione</string>
+
+    <string name="done_lock">Blocco completato!</string>
+    <string name="perfect">Il livello di sicurezza è perfetto!</string>
+    <string name="safe">Questo è un livello di sicurezza sicuro!</string>
+
+    <string name="connect">Collega 4 o più punti</string>
+    <string name="pin_input">Inserisci 4 codici PIN</string>
+
+    <string name="done_bill">Il tuo pagamento è stato completato.</string>
+    <string name="removed_ad">Annunci rimossi!</string>
+
+
+
+    <string name="ad_off">Disattiva gli annunci</string>
+    <string name="verfiy">Verifica la tua identità</string>
+    <string name="draw">Disegna sequenza di sblocco</string>
+    <string name="permission">Autorizzazione richiesta</string>
+    <string name="permisson_text">Per il normale utilizzo dell\'app \ndevi consentire due permessi.</string>
+    <string name="activate">Attiva</string>
+    <string name="ok">OK</string>
+    <string name="read_priv">Leggi i termini sulla privacy</string>
+    <string name="month_three">3 Mese</string>
+    <string name="install_text">Blocca _value_ per proteggere la tua privacy!</string>
+    <string name="rate_1">Sei soddisfatto di Perfect AppLock?</string>
+    <string name="rate2">Le tue preziose recensioni ci aiutano!</string>
+    <string name="rate3">Votaci</string>
+
+
+</resources>

@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="start">BẮT ĐẦU</string>
+
+    <string name="change_PIN">THAY ĐỔI MÃ PIN</string>
+    <string name="pattern_title">Vẽ một hình mẫu mở khoá để dự phòng</string>
+    <string name="pattern_text">Kết nối ít nhất 4 diem</string>
+    <string name="reset">ĐẶT LẠI</string>
+    <string name="check_pattern">Xác nhận hình của bạn</string>
+    <string name="retry">thử lại</string>
+    <string name="wrong_pattern">Mẫu sai</string>
+    <string name="change_pattern">THAY ĐỔI HÌNH</string>
+    <string name="pin_title">Đặt mã PIN của bạn để dự phòng</string>
+    <string name="pin_text">Nhập 4 chủ sở</string>
+    <string name="check_pin">Xác nhận hình của bạn</string>
+    <string name="wrong_pin">PIN không khớp</string>
+    <string name="week">Khóa nhiều ứng dụng hơn và tăng cường bảo mật</string>
+    <string name="lock">khóa</string>
+    <string name="finger_ver">Xác thực bằng dấu vân tay đã đăng ký</string>
+    <string name="cancel">hủy bỏ</string>
+    <string name="locked">đã khóa</string>
+
+    <string name="spy_camera">máy ảnh gián điệp</string>
+    <string name="icon">biểu tượng ngụy trang</string>
+    <string name="ad">loại bỏ các quảng cáo</string>
+    <string name="review">tỷ lệ</string>
+    <string name="priv">Điều khoản sử dụng</string>
+    <string name="spy_camera_text">Chụp ảnh khi xảy ra lỗi mẫu hoặc mật khẩu đã đặt trong một số lần nhất định</string>
+    <string name="spy_1">bắn gián điệp</string>
+
+    <string name="spy_2">Số lỗi mật khẩu</string>
+    <string name="icon_text">Cải trang Perfect AppLock thành một ứng dụng khác có biểu tượng ngụy trang</string>
+    <string name="basic">nền tảng</string>
+    <string name="used">đang sử dụng</string>
+    <string name="change">thay thế</string>
+    <string name="change_icon">Bạn có muốn thay thế Perfect Applcok bằng biểu tượng đó không?</string>
+    <string name="chan">thay thế</string>
+    <string name="ad_off_text">Bạn có thể sử dụng Perfect AppLock thoải mái hơn mà không cần quảng cáo!</string>
+
+    <string name="purchase">mua</string>
+    <string name="setting">cài đặt</string>
+    <string name="password">mật khẩu</string>
+    <string name="reset_password">đặt lại mật khẩu</string>
+    <string name="finger_lock">khóa vân tay</string>
+    <string name="hidden_pattern">Mẫu trong suốt khi sử dụng khóa mẫu</string>
+    <string name="general">chung</string>
+    <string name="alert">Cài đặt thông báo hàng đầu</string>
+    <string name="re_lock">thiết lập lại khóa</string>
+    <string name="lock_display">Khóa lại màn hình sau khi tắt</string>
+    <string name="lock_app">Đóng ứng dụng sẽ khóa lại</string>
+    <string name="diff">Mở khóa theo những cách khác</string>
+    <string name="lock_all">Khóa tất cả</string>
+    <string name="finger_error">Người dùng đã hủy thao tác nhận dạng vân tay.</string>
+    <string name="finger">xác thực vân tay</string>
+    <string name="finger_text">Vui lòng xác minh dấu vân tay của bạn.</string>
+    <string name="finger_no">Không có cảm biến vân tay trên thiết bị này.</string>
+    <string name="finger_no_enroll">Không có dấu vân tay nào được đăng ký cho thiết bị này.</string>
+    <string name="create_short">Tạo lại phím tắt</string>
+
+    <string name="year">1 năm</string>
+    <string name="month">1 Tháng</string>
+    <string name="sub">đăng ký</string>
+
+    <string name="done_lock">Khóa hoàn tất!</string>
+    <string name="perfect">Mức độ bảo mật là hoàn hảo!</string>
+    <string name="safe">Đó là một mức độ bảo mật an toàn!</string>
+
+    <string name="connect">Kết nối 4 chấm trở lên</string>
+    <string name="pin_input">Nhập 4 mã PIN</string>
+
+    <string name="done_bill">Thanh toán của bạn đã được hoàn thành.</string>
+    <string name="removed_ad">Đã xóa quảng cáo!</string>
+
+
+
+    <string name="ad_off">Tắt quảng cáo</string>
+    <string name="verfiy">Xác minh danh tính của bạn</string>
+    <string name="draw">Vẽ hình mở khóa</string>
+    <string name="permission">Yêu cầu quyền</string>
+    <string name="permisson_text">Để sử dụng ứng dụng thông thường \nbạn cần cho phép hai quyền.</string>
+    <string name="activate">Kích hoạt</string>
+    <string name="ok">OK</string>
+    <string name="read_priv">Đọc các điều khoản về quyền riêng tư</string>
+    <string name="month_three">3 Tháng</string>
+    <string name="install_text">Khòa _value_ để bảo vệ sự riêng tư của bạn!</string>
+    <string name="rate_1">Bạn có hài lòng với Perfect AppLock không?</string>
+    <string name="rate2">đánh giá có giá trị của bạn giúp chúng tôi!</string>
+    <string name="rate3">Xếp Hạng Chúng Tôi</string>
+
+
+</resources>

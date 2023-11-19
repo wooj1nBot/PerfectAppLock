@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="start">MULAI</string>
+
+    <string name="change_PIN">UBAH KE KODE PIN</string>
+    <string name="pattern_title">Gambar pola buka sebagai cadangan</string>
+    <string name="pattern_text">Hubungkan sedikitnya 4 titik</string>
+    <string name="reset">ATUR ULANG</string>
+    <string name="check_pattern">패턴을 확인하세요</string>
+    <string name="retry">coba lagi</string>
+    <string name="wrong_pattern">Pola salah</string>
+    <string name="change_pattern">UBAH KE POLA</string>
+    <string name="pin_title">Atur kode PIN Anda sebagai cadangan</string>
+    <string name="pin_text">Masukkan 4 angka</string>
+    <string name="check_pin">Konfirmasikan PIN Anda</string>
+    <string name="wrong_pin">PIN tidak cocok</string>
+    <string name="week">Kunci lebih banyak aplikasi dan tingkatkan keamanan</string>
+    <string name="lock">kunci</string>
+    <string name="finger_ver">Otentikasi dengan sidik jari terdaftar</string>
+    <string name="cancel">pembatalan</string>
+    <string name="locked">terkunci</string>
+
+    <string name="spy_camera">kamera pengintai</string>
+    <string name="icon">ikon kamuflase</string>
+    <string name="ad">Hilangkan iklan</string>
+    <string name="review">kecepatan</string>
+    <string name="priv">Syarat Penggunaan</string>
+    <string name="spy_camera_text">Ambil gambar saat terjadi kesalahan pola atau kata sandi beberapa kali</string>
+    <string name="spy_1">menembak mata-mata</string>
+
+    <string name="spy_2">Jumlah kesalahan kata sandi</string>
+    <string name="icon_text">Menyamarkan Perfect Applock sebagai aplikasi lain dengan ikon kamuflase</string>
+    <string name="basic">dasar</string>
+    <string name="used">digunakan</string>
+    <string name="change">mengganti</string>
+    <string name="change_icon">Apakah Anda ingin mengganti Applcok Sempurna dengan ikon itu?</string>
+    <string name="chan">pengganti</string>
+    <string name="ad_off_text">Anda dapat menggunakan Perfect Applock dengan lebih nyaman tanpa iklan!</string>
+
+    <string name="purchase">pembelian</string>
+    <string name="setting">pengaturan</string>
+    <string name="password">kata sandi</string>
+    <string name="reset_password">pengaturan ulang kata sandi</string>
+    <string name="finger_lock">kunci sidik jari</string>
+    <string name="hidden_pattern">Pola transparan saat menggunakan kunci pola</string>
+    <string name="general">umum</string>
+    <string name="alert">Pengaturan notifikasi teratas</string>
+    <string name="re_lock">setel kunci lagi</string>
+    <string name="lock_display">Kunci kembali layar setelah mematikannya</string>
+    <string name="lock_app">Menutup aplikasi akan menguncinya lagi</string>
+    <string name="diff">Buka kunci dengan cara lain</string>
+    <string name="lock_all">Kunci Semua</string>
+    <string name="finger_error">Pengguna membatalkan operasi pengenalan sidik jari.</string>
+    <string name="finger">Otentikasi sidik jari</string>
+    <string name="finger_text">Harap verifikasi sidik jari Anda.</string>
+    <string name="finger_no">Tidak ada sensor sidik jari pada perangkat ini.</string>
+    <string name="finger_no_enroll">Tidak ada sidik jari yang terdaftar pada perangkat ini.</string>
+    <string name="create_short">Buat Ulang Pintasan</string>
+
+    <string name="year">1 tahun</string>
+    <string name="month">1 Bulan</string>
+    <string name="sub">Berlangganan</string>
+
+    <string name="done_lock">Kunci selesai!</string>
+    <string name="perfect">Tingkat keamanannya sempurna!</string>
+    <string name="safe">Itu adalah tingkat keamanan yang aman!</string>
+
+    <string name="connect">Hubungkan 4 titik atau lebih</string>
+    <string name="pin_input">Masukkan 4 kode PIN</string>
+
+    <string name="done_bill">Pembayaran Anda telah selesai.</string>
+    <string name="removed_ad">Iklan dihapus!</string>
+
+
+
+    <string name="ad_off">Matikan iklan</string>
+    <string name="verfiy">Verifikasi identitas Anda</string>
+    <string name="draw">Gambar pola buka kunci</string>
+    <string name="permission">Diperlukan izin</string>
+    <string name="permisson_text">Untuk penggunaan aplikasi normal \nAnda harus mengizinkan dua izin.</string>
+    <string name="activate">Aktifkan</string>
+    <string name="ok">OK</string>
+    <string name="read_priv">Baca persyaratan privasi</string>
+    <string name="month_three">3 Bulan</string>
+    <string name="install_text">Kunci _value_ untuk melindungi privasi Anda!</string>
+    <string name="rate_1">Apakah Anda puas dengan Perfect AppLock?</string>
+    <string name="rate2">Ulasan Anda yang berharga membantu kami!</string>
+    <string name="rate3">Beri Kami Peringkat</string>
+
+
+</resources>

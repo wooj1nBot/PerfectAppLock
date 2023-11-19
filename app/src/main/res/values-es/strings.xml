@@ -1,0 +1,90 @@
+<resources>
+    <string name="start">EMPEZAR</string>
+
+    <string name="change_PIN">CAMBIAR A CÓDIGO PIN</string>
+    <string name="pattern_title">Dibuja un patrón de desbloqueo de seguridad</string>
+    <string name="pattern_text">Conecta al menos 4 puntos</string>
+    <string name="reset">RESTABLECER</string>
+    <string name="check_pattern">Confirma tu patrón</string>
+    <string name="retry">intentar otra vez</string>
+    <string name="wrong_pattern">Patrón incorrecto</string>
+    <string name="change_pattern">CAMBIAR A PATRÓN</string>
+    <string name="pin_title">Establece tu código PIN como seguridad adicional</string>
+    <string name="pin_text">Enter 4 numbers</string>
+    <string name="check_pin">Confirma tu PIN</string>
+    <string name="wrong_pin">Los PIN no coinciden</string>
+    <string name="week">Bloquee más aplicaciones y aumente la seguridad</string>
+    <string name="lock">bloquear</string>
+    <string name="finger_ver">Autenticación con huella registrada</string>
+    <string name="cancel">cancelación</string>
+    <string name="locked">bloqueado</string>
+
+    <string name="spy_camera">cámara espía</string>
+    <string name="icon">icono de camuflaje</string>
+    <string name="ad">Quitar anuncios</string>
+    <string name="review">tasa</string>
+    <string name="priv">Condiciones de uso</string>
+    <string name="spy_camera_text">Tome una foto cuando se produzca un error de patrón o contraseña establecido un cierto número de veces</string>
+    <string name="spy_1">disparar espía</string>
+
+    <string name="spy_2">Número de errores de contraseña</string>
+    <string name="icon_text">Disfrazar Perfect Applock como otra aplicación con icono de camuflaje</string>
+    <string name="basic">básico</string>
+    <string name="used">en uso</string>
+    <string name="change">reemplazar</string>
+    <string name="change_icon">¿Quiere reemplazar Perfect Applcok con ese icono?</string>
+    <string name="chan">sustituto</string>
+    <string name="ad_off_text">¡Puedes usar Perfect Applock más cómodamente sin anuncios!</string>
+
+    <string name="purchase">compra</string>
+    <string name="setting">configuración</string>
+    <string name="password">contraseña</string>
+    <string name="reset_password">restablecimiento de contraseña</string>
+    <string name="finger_lock">bloqueo de huellas dactilares</string>
+    <string name="hidden_pattern">Patrón transparente cuando se usa patrón de bloqueo</string>
+    <string name="general">común</string>
+    <string name="alert">Principales configuraciones de notificación</string>
+    <string name="re_lock">establecer bloqueo de nuevo</string>
+    <string name="lock_display">Vuelva a bloquear la pantalla después de apagarla</string>
+    <string name="lock_app">Al cerrar la aplicación, se vuelve a bloquear.</string>
+    <string name="diff">Desbloquear de otras formas</string>
+    <string name="lock_all">Bloquear todo</string>
+    <string name="finger_error">El usuario canceló la operación de reconocimiento de huellas dactilares.</string>
+    <string name="finger">Autenticación de huellas dactilares</string>
+    <string name="finger_text">Por favor verifique su huella digital.</string>
+    <string name="finger_no">No hay sensor de huellas dactilares en este dispositivo.</string>
+    <string name="finger_no_enroll">No hay huellas dactilares registradas en este dispositivo.</string>
+    <string name="create_short">Recrear accesos directos</string>
+
+    <string name="year">1 año</string>
+    <string name="month">1 Mes</string>
+    <string name="sub">suscribiendose</string>
+
+    <string name="done_lock">¡Bloqueo completo!</string>
+    <string name="perfect">¡El nivel de seguridad es perfecto!</string>
+    <string name="safe">¡Ese es un nivel seguro de seguridad!</string>
+
+    <string name="connect">Conecta 4 o más puntos</string>
+    <string name="pin_input">Por favor ingrese su código PIN</string>
+
+    <string name="done_bill">Ihre Zahlung wurde abgeschlossen.</string>
+    <string name="removed_ad">Werbung entfernt!</string>
+
+
+
+    <string name="ad_off">Desactivar anuncios</string>
+    <string name="verfiy">Verifica tu identidad</string>
+    <string name="draw">Dibujar patrón de desbloqueo</string>
+    <string name="permission">Permiso requerido</string>
+    <string name="permisson_text">Para el uso normal de la aplicación \nnecesita permitir dos permisos.</string>
+    <string name="activate">Activar</string>
+    <string name="ok">OK</string>
+    <string name="read_priv">Leer términos de privacidad</string>
+    <string name="month_three">3 Mes</string>
+    <string name="install_text">¡Bloquea _value_ para proteger tu privacidad!</string>
+    <string name="rate_1">¿Está satisfecho con Perfect AppLock?</string>
+    <string name="rate2">¡Tus valiosas reseñas nos ayudan!</string>
+    <string name="rate3">Evalúenos</string>
+
+
+</resources>

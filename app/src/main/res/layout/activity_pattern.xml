@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main"
+    android:orientation="vertical"
+    tools:context=".PatternActivity">
+
+    <RelativeLayout
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="20dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            app:srcCompat="@drawable/back" />
+
+        <TextView
+            android:id="@+id/pin"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="25dp"
+            android:fontFamily="@font/pd_regu"
+            android:gravity="center"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:text="@string/change_PIN"
+            android:textColor="#186599"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bar"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/pd_medium"
+        android:gravity="center"
+        android:text="@string/pattern_title"
+        android:textColor="#464646"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView4"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/pd_regu"
+        android:gravity="center"
+        android:text="@string/pattern_text"
+        android:textColor="#464646"
+        android:textSize="17sp" />
+
+    <com.andrognito.patternlockview.PatternLockView
+        android:id="@+id/pattern"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="80dp"
+        app:correctStateColor="#186599"
+        app:dotNormalSize="16dp"
+        app:normalStateColor="#6D6D6D"
+        app:wrongStateColor="#A30000" />
+
+    <TextView
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:clickable="true"
+        android:fontFamily="@font/pd_regu"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:padding="20dp"
+        android:text="@string/reset"
+        android:textColor="#186599"
+        android:textSize="17sp"
+        android:visibility="gone" />
+</RelativeLayout>

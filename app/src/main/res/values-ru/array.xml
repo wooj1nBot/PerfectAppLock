@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>1 раз</item>
+        <item>2 раза</item>
+        <item>3 раза</item>
+        <item>4 раза</item>
+        <item>5 раза</item>
+    </string-array>
+
+    <integer-array name="spinner_int_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+</resources>

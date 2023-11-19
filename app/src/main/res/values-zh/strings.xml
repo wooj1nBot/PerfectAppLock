@@ -1,0 +1,90 @@
+<resources>
+    <string name="start">開始</string>
+
+    <string name="change_PIN">變更為PIN碼</string>
+    <string name="pattern_title">請畫出解鎖圖案以進行備份</string>
+    <string name="pattern_text">請連接至少四個點</string>
+    <string name="reset">復位</string>
+    <string name="check_pattern">請確認圖案</string>
+    <string name="retry">再試一次</string>
+    <string name="wrong_pattern">圖案錯誤</string>
+    <string name="change_pattern">變更為圖案</string>
+    <string name="pin_title">請設置PIN碼以進行備份</string>
+    <string name="pin_text">請輸入4個數位</string>
+    <string name="check_pin">請確認PIN</string>
+    <string name="wrong_pin">PIN不一致</string>
+    <string name="week">鎖定更多應用程序並提高安全性</string>
+    <string name="lock">鎖</string>
+    <string name="finger_ver">註冊指紋認證</string>
+    <string name="cancel">消除</string>
+    <string name="locked">鎖定</string>
+
+    <string name="spy_camera">間諜相機</string>
+    <string name="icon">迷彩圖標</string>
+    <string name="ad">移除廣告</string>
+    <string name="review">速度</string>
+    <string name="priv">使用条款</string>
+    <string name="spy_camera_text">當設置的圖案或密碼錯誤發生一定次數時拍照</string>
+    <string name="spy_1">諜照</string>
+
+    <string name="spy_2">密碼錯誤次數</string>
+    <string name="icon_text">將 Perfect Applock 偽裝成另一個帶有偽裝圖標的應用程序</string>
+    <string name="basic">基本的</string>
+    <string name="used">正在使用</string>
+    <string name="change">代替</string>
+    <string name="change_icon">你想用那個圖標替換 Perfect Applcok 嗎？</string>
+    <string name="chan">代替</string>
+    <string name="ad_off_text">沒有廣告，你可以更安心的使用完美Applock！</string>
+
+    <string name="purchase">購買</string>
+    <string name="setting">環境</string>
+    <string name="password">密碼</string>
+    <string name="reset_password">重設密碼</string>
+    <string name="finger_lock">指紋鎖</string>
+    <string name="hidden_pattern">使用圖案鎖時透明圖案</string>
+    <string name="general">常見的</string>
+    <string name="alert">熱門通知設置</string>
+    <string name="re_lock">再次設置鎖定</string>
+    <string name="lock_display">關機後重新鎖屏</string>
+    <string name="lock_app">關閉應用程序會再次鎖定它</string>
+    <string name="diff">其他方式解鎖</string>
+    <string name="lock_all">全部鎖定</string>
+    <string name="finger_error">用戶取消了指紋識別操作。</string>
+    <string name="finger">指紋認證</string>
+    <string name="finger_text">請驗證您的指紋。</string>
+    <string name="finger_no">此設備上沒有指紋傳感器。</string>
+    <string name="finger_no_enroll">此設備沒有註冊指紋。</string>
+    <string name="create_short">重新創建快捷方式</string>
+
+    <string name="year">1年</string>
+    <string name="month">1月</string>
+    <string name="sub">訂閱中</string>
+
+    <string name="done_lock">鎖定完成！</string>
+    <string name="perfect">安全級別是完美的！</string>
+    <string name="safe">這是一個安全的安全級別！</string>
+
+    <string name="connect">連接 4 個或更多點</string>
+    <string name="pin_input">輸入 4 個 PIN 碼</string>
+
+    <string name="done_bill">您的付款已完成。</string>
+    <string name="removed_ad">廣告已移除！</string>
+
+
+
+    <string name="ad_off">關閉廣告</string>
+    <string name="verfiy">驗證您的身份</string>
+    <string name="draw">繪製解鎖圖案</string>
+    <string name="permission">需要權限</string>
+    <string name="permisson_text">對於正常的應用程序使用\n你需要允許兩個權限。</string>
+    <string name="activate">激活</string>
+    <string name="ok">確定</string>
+    <string name="read_priv">閱讀隱私條款</string>
+    <string name="month_three">3月</string>
+    <string name="install_text">請鎖定 _value_，以保護個人資訊！</string>
+    <string name="rate_1">您對Perfect AppLock滿意嗎？</string>
+    <string name="rate2">您的寶貴意見對我們有幫助！</string>
+    <string name="rate3">評價我們</string>
+
+
+</resources>

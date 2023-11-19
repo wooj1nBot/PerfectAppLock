@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="start">เริ่ม</string>
+
+    <string name="change_PIN">เปลี่ยนเป็นรหัส PIN</string>
+    <string name="pattern_title">กรุณาวาดรูปแบบการปลดล็อกด้วยแบ็คอัพ</string>
+    <string name="pattern_text">กรุณาเชื่อมต่ออย่างน้อย 4 จุด</string>
+    <string name="reset">ตั้งค่าเริ่มต้นใหม่</string>
+    <string name="check_pattern">กรุณายืนยันรูปแบบ</string>
+    <string name="retry">ลองอีกครั้ง</string>
+    <string name="wrong_pattern">รูปแบบที่ไม่ถูกต้อง</string>
+    <string name="change_pattern">เปลี่ยนเป็นรูปแบบ</string>
+    <string name="pin_title">กรุณาตั้งรหัส PIN ด้วยแบ็คอัพ</string>
+    <string name="pin_text">กรุณาพิมพ์ 4 ตัวเลข</string>
+    <string name="check_pin">กรุณายืนยัน PIN</string>
+    <string name="wrong_pin">PIN ไม่ตรงกัน</string>
+    <string name="week">ล็อคแอพเพิ่มเติมและเพิ่มความปลอดภัย</string>
+    <string name="lock">ล็อค</string>
+    <string name="finger_ver">การรับรองความถูกต้องด้วยลายนิ้วมือที่ลงทะเบียน</string>
+    <string name="cancel">การยกเลิก</string>
+    <string name="locked">ล็อค</string>
+
+    <string name="spy_camera">กล้องสอดแนม</string>
+    <string name="icon">ไอคอนลายพราง</string>
+    <string name="ad">ลบโฆษณา</string>
+    <string name="review">ประเมิน</string>
+    <string name="priv">ข้อกำหนดการใช้งาน</string>
+    <string name="spy_camera_text">ถ่ายภาพเมื่อชุดรูปแบบหรือรหัสผ่านเกิดข้อผิดพลาดตามจำนวนครั้งที่กำหนด</string>
+    <string name="spy_1">ยิงสายลับ</string>
+
+    <string name="spy_2">จำนวนข้อผิดพลาดของรหัสผ่าน</string>
+    <string name="icon_text">ปลอมตัว Perfect Applock เป็นแอปอื่นด้วยไอคอนลายพราง</string>
+    <string name="basic">ขั้นพื้นฐาน</string>
+    <string name="used">ใช้งานอยู่</string>
+    <string name="change">แทนที่</string>
+    <string name="change_icon">คุณต้องการแทนที่ Perfect Applcok ด้วยไอคอนนั้นหรือไม่?</string>
+    <string name="chan">ทดแทน</string>
+    <string name="ad_off_text">คุณสามารถใช้ Perfect Applock ได้อย่างสะดวกสบายมากขึ้นโดยไม่มีโฆษณา!</string>
+
+    <string name="purchase">ซื้อ</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="reset_password">รีเซ็ตรหัสผ่าน</string>
+    <string name="finger_lock">ล็อคลายนิ้วมือ</string>
+    <string name="hidden_pattern">รูปแบบโปร่งใสเมื่อใช้การล็อครูปแบบ</string>
+    <string name="general">ทั่วไป</string>
+    <string name="alert">การตั้งค่าการแจ้งเตือนยอดนิยม</string>
+    <string name="re_lock">ตั้งล็อคอีกครั้ง</string>
+    <string name="lock_display">ล็อคหน้าจออีกครั้งหลังจากปิดเครื่อง</string>
+    <string name="lock_app">การปิดแอปจะล็อกอีกครั้ง</string>
+    <string name="diff">ปลดล็อกด้วยวิธีอื่น</string>
+    <string name="lock_all">ล็อกทั้งหมด</string>
+    <string name="finger_error">ผู้ใช้ยกเลิกการดำเนินการจดจำลายนิ้วมือ</string>
+    <string name="finger">การตรวจสอบลายนิ้วมือ</string>
+    <string name="finger_text">กรุณาตรวจสอบลายนิ้วมือของคุณ</string>
+    <string name="finger_no">ไม่มีเซ็นเซอร์ลายนิ้วมือบนอุปกรณ์นี้</string>
+    <string name="finger_no_enroll">ไม่มีลายนิ้วมือที่ลงทะเบียนกับอุปกรณ์นี้</string>
+    <string name="create_short">สร้างทางลัดใหม่</string>
+
+    <string name="year">1 ปี</string>
+    <string name="month">1 เดือน</string>
+    <string name="sub">กำลังสมัครสมาชิก</string>
+
+    <string name="done_lock">ล็อกเสร็จ!</string>
+    <string name="perfect">ระดับความปลอดภัยที่สมบูรณ์แบบ!</string>
+    <string name="safe">ก็ปลอดภัยระดับหนึ่งแล้ว!</string>
+
+    <string name="connect">เชื่อมต่อ 4 จุดขึ้นไป</string>
+    <string name="pin_input">ป้อนรหัส PIN 4 ตัว</string>
+
+    <string name="done_bill">การชำระเงินของคุณเสร็จสมบูรณ์แล้ว</string>
+    <string name="removed_ad">ลบโฆษณาแล้ว!</string>
+
+
+
+    <string name="ad_off">ปิดโฆษณา</string>
+    <string name="verfiy">ยืนยันตัวตนของคุณ</string>
+    <string name="draw">วาดแบบปลดล็อค</string>
+    <string name="permission">ต้องได้รับอนุญาต</string>
+    <string name="permisson_text">สำหรับการใช้งานแอปปกติ \nคุณต้องอนุญาตสองสิทธิ์</string>
+    <string name="activate">เปิดใช้งาน</string>
+    <string name="ok">ตกลง</string>
+    <string name="read_priv">อ่านเงื่อนไขความเป็นส่วนตัว</string>
+    <string name="month_three">3 เดือน</string>
+    <string name="install_text">กรุณาคุ้มครองข้อมูลส่วนบุคคล โดยล็อก _value_</string>
+    <string name="rate_1">คุณพอใจกับ Perfect AppLock หรือไม่</string>
+    <string name="rate2">บทวิจารณ์อันมีค่าของคุณช่วยเราได้!</string>
+    <string name="rate3">จัดอันดับเรา</string>
+
+
+</resources>
